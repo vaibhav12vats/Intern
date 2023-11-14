@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Web services"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Netflix"
+	}
+}
